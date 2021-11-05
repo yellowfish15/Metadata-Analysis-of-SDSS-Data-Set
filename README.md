@@ -1,5 +1,6 @@
 # Metadata Analysis of SDSS Datasets
-Python scripts to analyze FITS files from the Sloan Digital Sky Survey
+Python scripts to analyze FITS files from the Sloan Digital Sky Survey (SDSS)
+
 Note: this study was conducted in a Linux Operating System Environment
 
 ## Retrieving Data from the SDSS Database
